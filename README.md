@@ -25,25 +25,47 @@ Short-form videos often spread faster than viewers can verify them. I built Cred
 
 ---
 
-## Selected Work
+## Product and Operations Work
 
-### Blue Ocean Window Cleaning Operations Tools
+### Blue Ocean Window Cleaning Operations Systems
 
-Built internal workflows for consistent quoting and incident reporting, connecting business rules and operational data to practical team tools.
+Turned operational data and staff requirements into an internal quoting system and incident-management workflow. The estimator processes 11,000+ historical Housecall Pro jobs, enriches addresses with parcel data, blends regression and comparable-job signals, explains each quote, and captures staff corrections for future calibration.
 
-- [Estimate Tool](https://github.com/aliraza2025/bowc-estimate-tool)
-- [Incident Report System](https://github.com/aliraza2025/bowc-incident-report)
+- [Estimator Engineering Article](https://aliraza2025.github.io/bowc-estimate-tool-notes/data-plane/)
+- [Portfolio Experience](https://alirazaportfolio2026.netlify.app/experience)
 
-### AVA RF Plasma Generator Website
+### Analogic AVA RF Generator Launch
 
-Translated semiconductor product strategy, technical datasheets, positioning, and UI/UX wireframes into a production-oriented Next.js marketing experience.
+Supported the launch of three semiconductor RF generators by translating technical product details into positioning, visual identity, launch collateral, website strategy, and a working Next.js product-marketing prototype. The SEMICON West program supported 170+ booth demos, 60+ product-information requests, and 20+ high-priority leads.
 
-- [Source Code](https://github.com/aliraza2025/AVA-RF-Plasma-Generator-Website)
+- [Launch Strategy and Presentation](https://alirazaportfolio2026.netlify.app/presentations#analogic)
+- [Website Source Code](https://github.com/aliraza2025/AVA-RF-Plasma-Generator-Website)
+
+---
+
+## Strategy and Creative Proposals
+
+### Deel Local XI
+
+Designed an independent six-week Bay Area growth experiment showing how a football partnership could be measured by sales-accepted B2B meetings rather than impressions. The proposal includes target-account screening, an activation plan, economics, guardrails, and a decision scorecard.
+
+- [Interactive Proposal](https://ali-raza-deel-local-growth-hack.netlify.app/)
+
+### San Francisco 49ers Global Content Strategy
+
+Created an independent prospective-intern pitch covering seven growth markets and more than 12 culturally adapted content concepts inspired by global football, cricket, and basketball brands.
+
+- [Presentation and Summary](https://alirazaportfolio2026.netlify.app/presentations#49ers)
+
+---
+
+## Analytics and Optimization
 
 ### YouTube Engagement Analysis
 
-Modeled video engagement using creator-controlled metadata and used SHAP to explain how timing, title, and length influence predicted performance.
+Analyzed 250 MrBeast uploads, compared four models with five-fold cross-validation, and used SHAP to explain how controllable metadata such as timing, duration, and title length influences predicted engagement.
 
+- [Presentation and Findings](https://alirazaportfolio2026.netlify.app/presentations#mrbeast)
 - [Source Code](https://github.com/aliraza2025/MrBeast-as-a-Case-Study)
 
 ### Logistics Optimization

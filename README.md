@@ -87,12 +87,12 @@ Built an integer-programming model for truck deployment, pricing, routing, deman
 
 ## Experience Highlights
 
-- Product Marketing Intern, Analogic
-- Product Marketing Intern, AtlasNova AI, UC Berkeley SkyDeck
-- Brand and Growth Strategy Analyst, TECNO Mobile
-- Growth and Performance Analyst, Telenor
-- Digital Marketing Specialist, Garena
-- Digital Media Manager, OPPO
+- Product Management Intern, Analogic
+- Product Management Intern, AtlasNova AI, UC Berkeley SkyDeck
+- Product Development Manager, TECNO Mobile
+- Digital Product Manager, Telenor
+- Product Associate, Garena Free Fire
+- Product Associate, OPPO Mobile
 
 ---
 

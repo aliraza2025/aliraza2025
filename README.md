@@ -6,7 +6,7 @@ I turn ambiguous business problems into shipped products, analytical models, and
 
 Based in the San Francisco Bay Area and completing an M.S. in Business Analytics at California State University, East Bay.
 
-[Portfolio](https://alirazaai.page/) | [Field notes](https://alirazaai.page/notes/) | [LinkedIn](https://www.linkedin.com/in/ali-raza-2548880/) | [Email](mailto:axraza55@gmail.com)
+[Portfolio](https://alirazaai.page/) | [Work with me](https://alirazaai.page/services) | [Field notes](https://alirazaai.page/notes/) | [LinkedIn](https://www.linkedin.com/in/ali-raza-2548880/) | [Email](mailto:axraza55@gmail.com)
 
 ---
 
@@ -22,6 +22,16 @@ Short-form videos often spread faster than viewers can verify them. I built Cred
 - **Output:** Compact credibility results covering misinformation, scam, AI-content, manipulation, confidence, and evidence quality
 
 [Live Demo](https://crediclip-axraza-msba.fly.dev/) | [Portfolio Case Study](https://alirazaai.page/crediclip) | [Technical Article](https://alirazaai.page/notes/crediclip-data-plane) | [Source Code](https://github.com/aliraza2025/CrediClip)
+
+---
+
+## Open Source: Receipts
+
+**Evidence-first PM skills for Claude Code, Codex, and Cursor**
+
+Six agent skills that make PRDs, metrics, experiment readouts, AI evaluations, and launch copy say where each claim comes from and what each number does not prove. Each one writes down a method from my own work, including CrediClip's readiness gates and the Raasta experiment plan.
+
+[Repository](https://github.com/aliraza2025/receipts) | [Projects](https://alirazaai.page/projects#open-source)
 
 ---
 
@@ -104,4 +114,4 @@ Focus areas: machine learning, data engineering, optimization, business intellig
 
 ---
 
-I am open to product, analytics, and AI-focused opportunities where strategy and hands-on building meet.
+I am open to product, analytics, and AI-focused roles and to contract projects with founders and small teams. See [Work with me](https://alirazaai.page/services).
